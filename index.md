@@ -105,11 +105,11 @@ Next, reach out to your community. You can find them by:
 
 At the end of this host guide, you will find a few materials to make your experience as a host easier:
 
-**Checklist:*** a checklist to help you organize your event. *You will not need everything on this list, but it’s a helpful guide to make sure you don’t forget anything!*
+**Checklist:** A checklist to help you organize your event. _You will not need everything on this list, but it’s a helpful guide to make sure you don’t forget anything!_
 
-**Agenda: **a suggested outline of how your meeting could go
+**Agenda:** A suggested outline of how your meeting could go
 
-**Sign-in sheet: **for attendees to check in so you have their contact information for the future
+**Sign-in sheet:** For attendees to check in so you have their contact information for the future
 
 **THE DAY OF...**
 
@@ -143,9 +143,9 @@ Here are a few questions to help you focus your conversation and start planning 
 
 * *What are the goals you would like to set for your group?*
 
-* *What actions could you and your group take this week? What are actions you can take in two weeks? *
+* *What actions could you and your group take this week? What are actions you can take in two weeks?*
 
-* *Who are the c**oalition**s** and partners you have or would like to work with? *
+* _Who are the coalitions and partners you have or would like to work with?_
 
     * These relationships will be very important in the work to come, so having a good understanding of who they are and what the plan is to reach out to them is key.
 
