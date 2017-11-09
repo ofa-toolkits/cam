@@ -77,23 +77,19 @@ Start by making a list of people you know:
 
 Next, reach out to your community. You can find them by:
 
-* Posting your event on [OFA's website](https://my.ofa.us/page/event/create). If you don’t have an account, click on the "Sign In" tab in the top right corner.
+* Posting your event on [OFA's website](https://actionnetwork.org/event_campaigns/ofa-local-events?zipcode=60640&country=US). If you don’t have an account, click on the "Sign In" tab in the top right corner.
 
-    1. Enter the zip code where the event will take place
+    1. Click on the “Host an Event” event button on the right hand side of the screen
 
-        1. *Note: if you are hosting at a private residence and prefer not to share the address publicly, just write "Address provided upon RSVP" in the street address field. Be sure to follow up with everyone who has RSVP’d to make sure they know where to go.*
+    2. Enter the title, date/time, and location of your event
 
-    2. Event type: Action Planning Session
+        1. For the event title INSERT A SHORT BUT DESCRIPTIVE TITLE. EXAMPLE: Join us for a community action meeting
 
-    3. Event title: [INSERT A SHORT BUT DESCRIPTIVE TITLE]
+    4. Under the event description, you should add any specific details for your event that attendees need to know.
 
-        2. EX: Join us for a community action meeting
+        2. EX: "If you are ready to take action against efforts that strike at the heart of our shared values, then join us for an organizing meeting. We’ll be discussing the implications of recent actions for our community and plan our next steps."
 
-    4. Event description: (suggested language below)
-
-        3. EX: "If you are ready to take action against efforts that strike at the heart of our shared values, then join us for an organizing meeting. We’ll be discussing the implications of recent actions for our community and plan our next steps. ."
-
-* Share your event to the relevant state group on[ Connect](https://act.ofaconnect.com) 
+* Share your event to the relevant state group on[Connect](https://act.ofaconnect.com) 
 
     5. *Connect is our online tool for volunteers to share information.*
 
