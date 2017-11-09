@@ -215,7 +215,7 @@ These meetings are about personal interactions and developing relationships with
 
 * Commit to join [Connect](https://act.ofaconnect.com). Start with your state group and OFA News Group and then they can choose the issue groups they are interested in joining
 
-* Commit to j[oin the OFA Monthly Volunteer call](http://myaccount.maestroconference.com/conference/register/A552XLJX1OSJNL58), held on the first Monday of each month
+* Commit to j[oin the OFA Monthly Volunteer call](https://zoom.us/webinar/register/WN_z1H4hjhcTYSG9Mcf-RcSwg), held on the first Monday of each month
 
 * Commit to volunteer at a future event or day of action 
 
@@ -227,13 +227,13 @@ These meetings are about personal interactions and developing relationships with
 
 **PRE-EVENT**
 
-- [ ] CHOOSE A LOCATION
+[ ] CHOOSE A LOCATION
 
 * Determine if this will be  at your house or at a public space (local restaurant, coffee shop,  library or community center)
 
 * If at a public location, contact the establishment ahead of time to let them know you are coming and how many people you are expecting
 
-[ ] CREATE YOUR EVENT ON [OFA's website](https://my.ofa.us/page/event/create)
+[ ] CREATE YOUR EVENT ON [OFA's website](https://actionnetwork.org/event_campaigns/ofa-local-events)
 
 * Create an account on barackobama.com if you don’t have one already 
 
@@ -319,7 +319,7 @@ These meetings are about personal interactions and developing relationships with
 
 [ ] Clean up
 
-[ ] [Share the feedback from your meeting with us](https://docs.google.com/a/ofa.us/forms/d/e/1FAIpQLSdvwxupst6SVGKQfaDkIESiCZBUV9Nt0eAFuyTPhyf9DI2PaA/viewform?c=0&w=1)
+[ ] [Share the feedback from your meeting with us](https://my.ofa.us/page/s/ofa-event-report-back-form)
 
 [ ] Thank your attendees
 
