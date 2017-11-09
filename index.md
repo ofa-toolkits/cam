@@ -89,7 +89,7 @@ Next, reach out to your community. You can find them by:
 
         2. EX: "If you are ready to take action against efforts that strike at the heart of our shared values, then join us for an organizing meeting. We’ll be discussing the implications of recent actions for our community and plan our next steps."
 
-* Share your event to the relevant state group on[Connect](https://act.ofaconnect.com) 
+* Share your event to the relevant state group on[ Connect](https://act.ofaconnect.com) 
 
     5. *Connect is our online tool for volunteers to share information.*
 
