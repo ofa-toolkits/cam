@@ -17,7 +17,7 @@ Our goal is to build relationships, and strengthen and expand our chapter member
 
 We have the opportunity to be the model for what we want our communities to look like –– to show people that we are stronger together and that we respect, empower and include everyone.
 
-**EVENT ORGANIZING 101**
+# EVENT ORGANIZING 101
 
 **GETTING STARTED**
 
@@ -105,11 +105,11 @@ Next, reach out to your community. You can find them by:
 
 At the end of this host guide, you will find a few materials to make your experience as a host easier:
 
-* **Checklist:*** *a checklist to help you organize your event. *You will not need everything on this list, but it’s a helpful guide to make sure you don’t forget anything!*
+**Checklist:*** a checklist to help you organize your event. *You will not need everything on this list, but it’s a helpful guide to make sure you don’t forget anything!*
 
-* **Agenda: **a suggested outline of how your meeting could go
+**Agenda: **a suggested outline of how your meeting could go
 
-* **Sign-in sheet: **for attendees to check in so you have their contact information for the future
+**Sign-in sheet: **for attendees to check in so you have their contact information for the future
 
 **THE DAY OF...**
 
@@ -339,5 +339,5 @@ These meetings are about personal interactions and developing relationships with
 
 		▢ Schedule a 1:1 meeting with you
 
-
+**[ADD SIGN ON SHEET IN ACROBAT]**
 
