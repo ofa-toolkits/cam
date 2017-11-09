@@ -169,11 +169,11 @@ Don’t forget your organizing fundamentals and follow up:
 
 * [Report back to us by clicking HERE](https://my.ofa.us/page/s/ofa-event-report-back-form)
 
-    * *Please share successes you had and the best practices you used to recruit folks for your meeting! *
+    * Please share successes you had and the best practices you used to recruit folks for your meeting!
 
-    * *Please email us if you have any trouble accessing the link *
+    * Please email us if you have any trouble accessing the link
 
-**[DAVID - THE AGENDA SHOULD BE IT’S OWN PAGE]**
+
 
 **2017 OFA COMMUNITY ACTION MEETING AGENDA**
 
