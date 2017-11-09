@@ -167,7 +167,7 @@ Don’t forget your organizing fundamentals and follow up:
 
 * Create and log your attendees information into a list so that you have a record of participants–– these may be the people who start a new chapter with you!
 
-* [Report back(https://my.ofa.us/page/s/ofa-event-report-back-form)[to us by clicking HERE]
+* [Report back to us by clicking HERE](https://my.ofa.us/page/s/ofa-event-report-back-form)
 
     * *Please share successes you had and the best practices you used to recruit folks for your meeting! *
 
@@ -251,7 +251,7 @@ These meetings are about personal interactions and developing relationships with
 
     * *Note: if you are hosting at a private residence and prefer not to share the address publicly, just write "Address provided upon RSVP" in the street address field. Be sure to follow up with everyone who has RSVP’d to make sure they know where to go.*
 
-[ ] POST YOUR EVENT ON [CONNECT ](https://act.ofaconnect.com)
+[ ] POST YOUR EVENT ON [CONNECT](https://act.ofaconnect.com)
 
 * You can use your login for bo.com to sign on to Connect
 
