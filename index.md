@@ -339,5 +339,5 @@ These meetings are about personal interactions and developing relationships with
 
 		▢ Schedule a 1:1 meeting with you
 
-**[ADD SIGN ON SHEET IN ACROBAT]**
+
 
