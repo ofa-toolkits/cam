@@ -223,8 +223,6 @@ These meetings are about personal interactions and developing relationships with
 
 * Commit to scheduling a 1:1 meeting with you
 
-**[DAVID - THE CHECKLIST SHOULD BE IT’S OWN PAGE]**
-
 **2017 OFA COMMUNITY ACTION MEETING CHECKLIST**
 
 **PRE-EVENT**
@@ -339,5 +337,4 @@ These meetings are about personal interactions and developing relationships with
 
 		▢ Schedule a 1:1 meeting with you
 
-**[ADD SIGN ON SHEET IN ACROBAT]**
 
