@@ -227,13 +227,13 @@ These meetings are about personal interactions and developing relationships with
 
 **PRE-EVENT**
 
-▢ CHOOSE A LOCATION
+[ ] CHOOSE A LOCATION
 
 * Determine if this will be  at your house or at a public space (local restaurant, coffee shop,  library or community center)
 
 * If at a public location, contact the establishment ahead of time to let them know you are coming and how many people you are expecting
 
-▢ CREATE YOUR EVENT ON [OFA's website](https://my.ofa.us/page/event/create)
+[ ] CREATE YOUR EVENT ON [OFA's website](https://my.ofa.us/page/event/create)
 
 * Create an account on barackobama.com if you don’t have one already 
 
@@ -251,7 +251,7 @@ These meetings are about personal interactions and developing relationships with
 
     * *Note: if you are hosting at a private residence and prefer not to share the address publicly, just write "Address provided upon RSVP" in the street address field. Be sure to follow up with everyone who has RSVP’d to make sure they know where to go.*
 
-▢ POST YOUR EVENT ON [CONNECT ](https://act.ofaconnect.com)
+[ ] POST YOUR EVENT ON [CONNECT ](https://act.ofaconnect.com)
 
 * You can use your login for bo.com to sign on to Connect
 
@@ -259,7 +259,7 @@ These meetings are about personal interactions and developing relationships with
 
 * For more information about how to use Connect, see the new user guide [here](https://drive.google.com/open?id=0B6taTKnl6ECZdVI0SGhjVWx4Tm8).
 
-▢ CONFIRM YOUR GUESTS
+[ ] CONFIRM YOUR GUESTS
 
 * Call everyone who has RSVP’d the day before your meeting
 
@@ -271,7 +271,7 @@ These meetings are about personal interactions and developing relationships with
 
 * Follow up with an email with the address and other details, so it is in written form
 
-▢ PRINT MATERIALS
+[ ] PRINT MATERIALS
 
 * Agenda
 
@@ -281,7 +281,7 @@ These meetings are about personal interactions and developing relationships with
 
 * Anything else you need to make your event a success
 
-▢ INVENTORY (pull together all of the applicable materials ahead of your event)
+[ ] INVENTORY (pull together all of the applicable materials ahead of your event)
 
 * Printed materials (from above)
 
@@ -307,34 +307,34 @@ These meetings are about personal interactions and developing relationships with
 
 **DURING THE EVENT**
 
-▢ Make sure everyone signs in and has an agenda
+[ ] Make sure everyone signs in and has an agenda
 
-▢ Establish group norms and expectations
+[ ] Establish group norms and expectations
 
-▢ Share your stories
+[ ] Share your stories
 
-▢ Outline next steps
+[ ] Outline next steps
 
 **POST EVENT**
 
-▢ Clean up
+[ ] Clean up
 
-▢ [Share the feedback from your meeting with us](https://docs.google.com/a/ofa.us/forms/d/e/1FAIpQLSdvwxupst6SVGKQfaDkIESiCZBUV9Nt0eAFuyTPhyf9DI2PaA/viewform?c=0&w=1)
+[ ] [Share the feedback from your meeting with us](https://docs.google.com/a/ofa.us/forms/d/e/1FAIpQLSdvwxupst6SVGKQfaDkIESiCZBUV9Nt0eAFuyTPhyf9DI2PaA/viewform?c=0&w=1)
 
-▢ Thank your attendees
+[ ] Thank your attendees
 
-▢ Log your attendees’ information to your team list
+[ ] Log your attendees’ information to your team list
 
-▢  Follow up with those who committed to action
+[ ]  Follow up with those who committed to action
 
-	▢ Be specific in your follow up ask 
+	[ ] Be specific in your follow up ask 
 
-		▢ Join Connect 
+		[ ] Join Connect 
 
-		▢ Commit to volunteer at a future event or day of action 
+		[ ] Commit to volunteer at a future event or day of action 
 
-		▢ Commit to becoming a leader within your chapter 
+		[ ] Commit to becoming a leader within your chapter 
 
-		▢ Schedule a 1:1 meeting with you
+		[ ] Schedule a 1:1 meeting with you
 
 
