@@ -17,7 +17,7 @@ Our goal is to build relationships, and strengthen and expand our chapter member
 
 We have the opportunity to be the model for what we want our communities to look like –– to show people that we are stronger together and that we respect, empower and include everyone.
 
-# EVENT ORGANIZING 101
+## EVENT ORGANIZING 101
 
 **GETTING STARTED**
 
