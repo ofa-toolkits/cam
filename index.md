@@ -167,7 +167,7 @@ Don’t forget your organizing fundamentals and follow up:
 
 * Create and log your attendees information into a list so that you have a record of participants–– these may be the people who start a new chapter with you!
 
-* [Report back](https://docs.google.com/a/ofa.us/forms/d/e/1FAIpQLSdvwxupst6SVGKQfaDkIESiCZBUV9Nt0eAFuyTPhyf9DI2PaA/viewform?c=0&w=1)[ to us by clicking HERE](https://docs.google.com/a/ofa.us/forms/d/e/1FAIpQLSdvwxupst6SVGKQfaDkIESiCZBUV9Nt0eAFuyTPhyf9DI2PaA/viewform?c=0&w=1)
+* [Report back(https://my.ofa.us/page/s/ofa-event-report-back-form)[to us by clicking HERE]
 
     * *Please share successes you had and the best practices you used to recruit folks for your meeting! *
 
