@@ -227,7 +227,7 @@ These meetings are about personal interactions and developing relationships with
 
 **PRE-EVENT**
 
-[ ] CHOOSE A LOCATION
+- [ ] CHOOSE A LOCATION
 
 * Determine if this will be  at your house or at a public space (local restaurant, coffee shop,  library or community center)
 
