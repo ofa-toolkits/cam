@@ -1,0 +1,18 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Community Action Meetings"
+metadataformat = "yaml"
+theme = "hugo-material-docs"
+canonifyurls = true
+googleAnalytics = ""
+
+
+[[menu.main]]
+	name   = "Event Organizing 101"
+	url    = "/"
+	weight = 0
+
+[[menu.main]]
+	name   = "Meeting Checklist"
+	url    = "/checklist"
+	weight = 0

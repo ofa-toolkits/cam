@@ -1,3 +1,10 @@
+---
+date: 2016-03-08T21:07:13+01:00
+title: Hosting Community Action Meetings
+
+weight: 10
+---
+
 **2017 OFA COMMUNITY ACTION MEETING CHECKLIST**
 
 **PRE-EVENT**
@@ -10,7 +17,7 @@
 
 ▢ CREATE YOUR EVENT ON [OFA's website](https://my.ofa.us/page/event/create)
 
-* Create an account on barackobama.com if you don’t have one already 
+* Create an account on barackobama.com if you don’t have one already
 
     * Click on the "Sign In" tab in the upper right corner
 
@@ -18,11 +25,11 @@
 
 * Title: EX: Join us for a community action meeting
 
-* Sample event description: 
+* Sample event description:
 
-    * If you feel spurred to action by recent events, join us for a meeting to discuss the implications in our community. 
+    * If you feel spurred to action by recent events, join us for a meeting to discuss the implications in our community.
 
-* Fill out the When and Where sections. The host mailing and contact info sections are optional. 
+* Fill out the When and Where sections. The host mailing and contact info sections are optional.
 
     * *Note: if you are hosting at a private residence and prefer not to share the address publicly, just write "Address provided upon RSVP" in the street address field. Be sure to follow up with everyone who has RSVP’d to make sure they know where to go.*
 
@@ -78,7 +85,7 @@
 
 * Power cable for all devices (if applicable)		
 
-	
+
 
 **DURING THE EVENT**
 
@@ -102,12 +109,12 @@
 
 ▢  Follow up with those who committed to action
 
-	▢ Be specific in your follow up ask 
+	▢ Be specific in your follow up ask
 
-		▢ Join Connect 
+		▢ Join Connect
 
-		▢ Commit to volunteer at a future event or day of action 
+		▢ Commit to volunteer at a future event or day of action
 
-		▢ Commit to becoming a leader within your chapter 
+		▢ Commit to becoming a leader within your chapter
 
 		▢ Schedule a 1:1 meeting with you

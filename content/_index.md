@@ -1,5 +1,10 @@
-# cam
-Hosting Community Action Meetings
+---
+date: 2016-03-08T21:07:13+01:00
+title: Hosting Community Action Meetings
+type: index
+weight: 0
+---
+
 
 ## **WHO IS OFA?**
 
@@ -13,7 +18,7 @@ OFA is as committed as we've ever been to defending the progress we’ve made ov
 
 We want to ensure that we have a strong foundation for our organizing work, so it’s vital that we regroup, reconnect, and build our chapters and teams in communities across the country. We are the entry point for your network of friends, community groups, people who worked on the campaign, and all those who are ready to take action.
 
-Our goal is to build relationships, and strengthen and expand our chapter membership by listening to people who are stepping up. We want to provide them with a menu of opportunities to get engaged in organizing work with OFA. As conveners in our communities, we want to bring people together, find out what their story is, what motivates them, what issues they care most about, and what changes they want to see in their neighborhoods. 
+Our goal is to build relationships, and strengthen and expand our chapter membership by listening to people who are stepping up. We want to provide them with a menu of opportunities to get engaged in organizing work with OFA. As conveners in our communities, we want to bring people together, find out what their story is, what motivates them, what issues they care most about, and what changes they want to see in their neighborhoods.
 
 We have the opportunity to be the model for what we want our communities to look like –– to show people that we are stronger together and that we respect, empower and include everyone.
 
@@ -21,7 +26,7 @@ We have the opportunity to be the model for what we want our communities to look
 
 **GETTING STARTED**
 
-Great organizers build power by bringing people together. Organizers are able to connect people together from different backgrounds, experiences, and skill levels and put them to use in an effective and strategic way. By providing a space for people to meet, you can discuss the implications of actions taken by Congressional leaders and the administration for your community. From there, you can determine the next steps you can take as a group. By taking the time to collectively plan and strategize, you and your team will be able to move forward with a deliberate and thought-out approach. 
+Great organizers build power by bringing people together. Organizers are able to connect people together from different backgrounds, experiences, and skill levels and put them to use in an effective and strategic way. By providing a space for people to meet, you can discuss the implications of actions taken by Congressional leaders and the administration for your community. From there, you can determine the next steps you can take as a group. By taking the time to collectively plan and strategize, you and your team will be able to move forward with a deliberate and thought-out approach.
 
 **GOALS**
 
@@ -35,21 +40,21 @@ Your community action meeting should have the following goals in mind:
 
 **LOCK IN LOGISTICS**
 
-Great organizers not only brainstorm creative and exciting ideas, but also invest a lot of time planning the different logistical aspects of their events and meetings. We will walk you through a number of steps to help you manage your event so you can achieve the above goals. 
+Great organizers not only brainstorm creative and exciting ideas, but also invest a lot of time planning the different logistical aspects of their events and meetings. We will walk you through a number of steps to help you manage your event so you can achieve the above goals.
 
-**When will you host your event?** Give yourself enough time to find a location, plan and recruit for your event. Be sure to check calendars so your proposed date doesn’t interfere with holidays or important local events. 
+**When will you host your event?** Give yourself enough time to find a location, plan and recruit for your event. Be sure to check calendars so your proposed date doesn’t interfere with holidays or important local events.
 
 **Who will make up your planning team?** Organizers work best in teams. Think about people who can help you organize your meeting and assign responsibilities accordingly. For example, someone might have time to bring snacks, so put them in charge of getting snacks for the meeting. Someone else may have a network of friends they have worked with on the campaign, so they can help with recruitment.
 
 **RECRUITMENT REIGNS SUPREME**
 
-Recruitment is one of your most important roles as a host. No meeting––no matter how well planned–– can truly be successful without people there to participate. At its core, organizing is fundamentally about building relationships. The larger and more cohesive a group of people are working together to make change, the more effective and powerful they will be. 
+Recruitment is one of your most important roles as a host. No meeting––no matter how well planned–– can truly be successful without people there to participate. At its core, organizing is fundamentally about building relationships. The larger and more cohesive a group of people are working together to make change, the more effective and powerful they will be.
 
-The way to recruit effectively is not magic; there is a formula and key steps you must follow if you’re going to achieve your goals. 
+The way to recruit effectively is not magic; there is a formula and key steps you must follow if you’re going to achieve your goals.
 
-Recruiting someone to attend an event is not just getting a verbal commitment, or filling out a single online form. It is a continuous process of ensuring commitment all the way through the day of the meeting. 
+Recruiting someone to attend an event is not just getting a verbal commitment, or filling out a single online form. It is a continuous process of ensuring commitment all the way through the day of the meeting.
 
-**The first ask is a registration**, or RSVP. When asking for someone to join your meeting, your event info should include the specific location, time, and date of your meeting. 
+**The first ask is a registration**, or RSVP. When asking for someone to join your meeting, your event info should include the specific location, time, and date of your meeting.
 
 **The second ask is a confirmation**. Every meeting will always have a number of people that are unable to make it, but by taking these steps, you can actively reduce that number:
 
@@ -73,7 +78,7 @@ Start by making a list of people you know:
 
 * Faith or school groups and community organizations are also great resources
 
- 
+
 
 Next, reach out to your community. You can find them by:
 
@@ -89,7 +94,7 @@ Next, reach out to your community. You can find them by:
 
         2. EX: "If you are ready to take action against efforts that strike at the heart of our shared values, then join us for an organizing meeting. We’ll be discussing the implications of recent actions for our community and plan our next steps."
 
-* Share your event to the relevant state group on[ Connect](https://act.ofaconnect.com) 
+* Share your event to the relevant state group on[ Connect](https://act.ofaconnect.com)
 
     5. *Connect is our online tool for volunteers to share information.*
 
@@ -123,11 +128,11 @@ Be prepared before your first guest arrives!
 
 **DISCUSSION QUESTIONS**
 
-Here are a few questions to help you focus your conversation and start planning to take action in your community. Remember to always respect, empower and include everyone and to encourage all your attendees to participate in the conversation. 
+Here are a few questions to help you focus your conversation and start planning to take action in your community. Remember to always respect, empower and include everyone and to encourage all your attendees to participate in the conversation.
 
 * *What are the norms to set for your meeting?*
 
-    * "Norms" are basic (but necessary!) meeting guidelines, like “We won’t speak while someone else is talking.” 
+    * "Norms" are basic (but necessary!) meeting guidelines, like “We won’t speak while someone else is talking.”
 
     * If everyone understands these norms up-front, it’s easier to guide your conversation back to them and make sure your meeting ends productively.
 
@@ -151,7 +156,7 @@ Here are a few questions to help you focus your conversation and start planning 
 
 Don’t forget your organizing fundamentals and follow up:
 
-* Thank your attendees 
+* Thank your attendees
 
     * Outline any next steps that were agreed upon at your meeting. Make sure to include the specific responsibilities that each volunteer agreed to take on––it’s a good idea to have these in writing to hold people accountable.
 
@@ -159,7 +164,7 @@ Don’t forget your organizing fundamentals and follow up:
 
     * *What’s a 1:1 and why do I need to do it?*
 
-        * It is an intentional, pre-scheduled meeting (about 30-45 minutes)–– in this case, it’s likely an introductory 1:1. You can take the time to get to know someone on a much more personal level where you can share stories and really understand what is motivating them to get involved. 1:1s are about listening. The organizer or volunteer leader should absorb where the other person is coming from and seek to understand what they are saying. 
+        * It is an intentional, pre-scheduled meeting (about 30-45 minutes)–– in this case, it’s likely an introductory 1:1. You can take the time to get to know someone on a much more personal level where you can share stories and really understand what is motivating them to get involved. 1:1s are about listening. The organizer or volunteer leader should absorb where the other person is coming from and seek to understand what they are saying.
 
 * Create and log your attendees information into a list so that you have a record of participants–– these may be the people who start a new chapter with you!
 
@@ -183,15 +188,15 @@ Introduce yourself and ask your guests to sign in. Thank everyone for coming! Ha
 
 Take a couple minutes to share your own story and why you decided to host this meeting. Sharing personal stories is a great way to build relationships with guests and to create common experiences. It’s a good time to talk about the urgency of the moment and especially now, why it’s so important to continue to organize around the issues.
 
-  
+
 
 **Hear From Your Guests (20 min.)**
 
 Use this opportunity to ask your guests to share their stories. Ask them about the issues they are most interested in organizing around. This gathering will be a great chance to brainstorm and discuss the issues and work that can most impact your community.
 
- 
 
- 
+
+
 
 **Open Up the Discussion (30-40 min.)**
 
@@ -199,13 +204,13 @@ We are in a new and unexpected reality––probe for information that will help
 
 * *See discussion questions above*
 
- 
 
- 
+
+
 
 **Next Steps and Close (10 min.)**
 
-These meetings are about personal interactions and developing relationships with people within your community. As a leader, you are in the best position of anyone to ask your friends and neighbors to get involved. 
+These meetings are about personal interactions and developing relationships with people within your community. As a leader, you are in the best position of anyone to ask your friends and neighbors to get involved.
 
 **Ask them what action step are they going to take after the meeting? **
 
@@ -213,7 +218,7 @@ These meetings are about personal interactions and developing relationships with
 
 * Commit to j[oin the OFA Monthly Volunteer call](https://zoom.us/webinar/register/WN_z1H4hjhcTYSG9Mcf-RcSwg), held on the first Monday of each month
 
-* Commit to volunteer at a future event or day of action 
+* Commit to volunteer at a future event or day of action
 
 * Commit to becoming a leader within your chapter
 
@@ -231,7 +236,7 @@ These meetings are about personal interactions and developing relationships with
 
 [ ] CREATE YOUR EVENT ON [OFA's website](https://actionnetwork.org/event_campaigns/ofa-local-events)
 
-* Create an account on barackobama.com if you don’t have one already 
+* Create an account on barackobama.com if you don’t have one already
 
     * Click on the "Sign In" tab in the upper right corner
 
@@ -239,11 +244,11 @@ These meetings are about personal interactions and developing relationships with
 
 * Title: EX: Join us for a community action meeting
 
-* Sample event description: 
+* Sample event description:
 
-    * If you feel spurred to action by recent events, join us for a meeting to discuss the implications in our community. 
+    * If you feel spurred to action by recent events, join us for a meeting to discuss the implications in our community.
 
-* Fill out the When and Where sections. The host mailing and contact info sections are optional. 
+* Fill out the When and Where sections. The host mailing and contact info sections are optional.
 
     * *Note: if you are hosting at a private residence and prefer not to share the address publicly, just write "Address provided upon RSVP" in the street address field. Be sure to follow up with everyone who has RSVP’d to make sure they know where to go.*
 
@@ -299,7 +304,7 @@ These meetings are about personal interactions and developing relationships with
 
 * Power cable for all devices (if applicable)		
 
-	
+
 
 **DURING THE EVENT**
 
@@ -323,14 +328,12 @@ These meetings are about personal interactions and developing relationships with
 
 [ ]  Follow up with those who committed to action
 
-	[ ] Be specific in your follow up ask 
+	[ ] Be specific in your follow up ask
 
-		[ ] Join Connect 
+		[ ] Join Connect
 
-		[ ] Commit to volunteer at a future event or day of action 
+		[ ] Commit to volunteer at a future event or day of action
 
-		[ ] Commit to becoming a leader within your chapter 
+		[ ] Commit to becoming a leader within your chapter
 
 		[ ] Schedule a 1:1 meeting with you
-
-
